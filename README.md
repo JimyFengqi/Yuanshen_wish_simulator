@@ -2,5 +2,3 @@
 这是一个使用python中的pygame模块运行的原神抽卡模拟器
 下载后先运行downloader.py，下载完成后再运行主程序
 
-
-add readme
